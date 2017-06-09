@@ -6,22 +6,17 @@ Linux cheat for x64 linux systems
 Features:
 * *Wallhack*
 * *Trigger bot*
-* *Bhop*
-* *No Flash*
 
 ## Wall hack
 ![Walls png](http://i.imgur.com/ztp5WBf.jpg)
 
-## Bhop
-![Bhops gif](http://i.imgur.com/0DXp8bA.gif)
+
 
 ## Toggles
 | Hack          | Key           |
 | ------------- |:-------------:|
 | ESP           | F7            |
 | No Flash      | F8            |
-| Bhop          | SPACE         |
-| Bhop lock     | F9            |
 
 
 ## TriggerKey
