@@ -1,0 +1,10 @@
+CMakeFiles/*
+.idea/*
+cmake_install.cmake
+*.txt
+!CMakeLists.txt
+!nologs-branch.md
+*.log
+lolpls
+csgo_external
+.vscode/
